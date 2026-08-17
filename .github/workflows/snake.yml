@@ -25,12 +25,12 @@ jobs:
 
       - name: Commit generated snake
         run: |
-          if git diff --quiet dist/; then
+          git add dist/
+          if git diff --cached --quiet; then
             echo "no changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/
           git commit -m "chore: regenerate contribution snake"
           git push
