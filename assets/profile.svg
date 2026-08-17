@@ -36,7 +36,7 @@
       .row{opacity:0;animation:rowin 0.14s ease-out forwards;}
       .info{opacity:0;animation:rowin .4s ease-out forwards;}
       .name{animation:rowin .6s ease-out forwards;}
-      .scanline{animation:scan 3.2s linear infinite;animation-delay:3.19s;opacity:0;animation-fill-mode:backwards;}
+      .scanline{animation:scan 3.2s linear infinite;animation-delay:3.19s;animation-fill-mode:backwards;}
       .beam{animation:beam 4s linear infinite;stroke-dasharray:1400;}
       .cursor{animation:blink 1s steps(1) infinite;}
       .d1{animation:doty 2.4s ease-in-out infinite;}
@@ -111,7 +111,8 @@
     <circle cx="328" cy="436" r="3" fill="#fbbf24" class="d3"/>
   </g>
 
-  <text class="info" style="animation-delay:0.90s" x="24" y="46" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="rgba(148,163,184,0.8)">~/profile &gt; <tspan fill="#fbbf24">./reveal</tspan></text>
+  <g transform="translate(472,96)">
+<text class="info" style="animation-delay:0.90s" x="24" y="46" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="rgba(148,163,184,0.8)">~/profile &gt; <tspan fill="#fbbf24">./reveal</tspan></text>
 <text class="info name" style="animation-delay:1.20s" x="24" y="92" font-family="DejaVu Sans Mono,monospace" font-size="20" fill="url(#nameGrad)" font-weight="bold">NITIN CHAUDHARY</text>
 <text class="info" style="animation-delay:1.35s" x="24" y="114" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="#60a5fa">Student &#183; Robotics &#183; AI</text>
 <rect class="info" style="animation-delay:1.50s" x="24" y="124" width="120" height="2" fill="url(#amberBar)"/>
@@ -125,6 +126,7 @@
 <text class="info" style="animation-delay:3.10s" x="24" y="162" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="rgba(148,163,184,0.9)">status</text>
 <text class="info" style="animation-delay:3.25s" x="24" y="182" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="#e2e8f0">&gt; building agents, robots &amp; web apps</text>
 <text class="info" style="animation-delay:3.45s" x="24" y="452" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="#e2e8f0">&gt; <tspan fill="#34d399">all systems loaded</tspan> &#8212; scanning</text>
+</g>
 
   <g class="scanline">
     <rect x="0" y="-180" width="832" height="180" fill="url(#scanGrad)"/>
