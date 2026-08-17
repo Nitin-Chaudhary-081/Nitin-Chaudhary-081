@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="900" alt="Nitin Chaudhary — Robotics and AI">
+  <img src="assets/profile.svg" width="900" alt="Nitin Chaudhary — Robotics and AI — animated profile with ASCII portrait and live scan line">
 </p>
 
 <h1 align="center">Hi there, I'm Nitin Chaudhary 👋</h1>
