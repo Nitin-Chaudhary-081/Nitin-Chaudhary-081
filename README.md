@@ -123,6 +123,14 @@ to cloud.
 
 ---
 
+## 🐍 Contribution graph
+
+<p align="center">
+  <img src="dist/snake-light.svg" alt="Snake eating my contributions" width="900">
+</p>
+
+---
+
 ## 🎓 Goals
 
 Student with a deep curiosity about **robotics and artificial intelligence**.
