@@ -119,6 +119,26 @@ to cloud.
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Nitin-Chaudhary-081/h1-humanoid-sim">🦾 H1 Humanoid Sim</a></h3>
+      <p>Unitree H1-2 humanoid simulation: ROS 2 Jazzy + Gazebo Harmonic,
+      natural-language control via Gemini, Foxglove visualization and AWS
+      free-tier telemetry. Work in progress.</p>
+      <p>
+        <a href="https://github.com/Nitin-Chaudhary-081/h1-humanoid-sim"><img src="https://img.shields.io/badge/ROS_2_+_Gazebo_+_Gemini-22314E?style=flat-square&logo=ros&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Nitin-Chaudhary-081/laferrati-aperta-landing-page">🏎️ LaFerrari Aperta Landing</a></h3>
+      <p>Cinematic scrollytelling landing page — LaFerrari Aperta explodes
+      into 180 scroll-scrubbed frames with GSAP + Lenis, very long slow
+      continuous unfold and quick reassemble. Dark Ferrari premium.</p>
+      <p>
+        <a href="https://github.com/Nitin-Chaudhary-081/laferrati-aperta-landing-page"><img src="https://img.shields.io/badge/React_+_GSAP_+_Lenis-61DAFB?style=flat-square&logo=react&logoColor=black"></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
